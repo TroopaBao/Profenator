@@ -1,0 +1,14 @@
+* Sexo.- F y M
+* Ocupación.- Docente y D/C
+* Estatura.- Baja, Media y Alta
+* Tez.- Morena, Negra, Mestiza, Blanca
+* Color de Cabello.- Negro, Blanco, Rubio, Café, No tiene
+* Barba y/o bigote.- Si y No
+* Lentes.- Si y No
+* Estricto.- Si y No
+* Delgado.- Si y No
+* Área en la que se especializa.- Ciencias Básicas, Programación, Desarrollo Web,
+ 	Bases de Datos, Redes, Investigación orientada a Proyectos, Electrónica.
+* Vestimenta: Casual, Formal o Ambas
+* Usa Computadora en Clase.- Si y No 
+
